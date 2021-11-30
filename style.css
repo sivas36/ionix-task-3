@@ -1,0 +1,423 @@
+body{
+   background-color:#E5E5E5 !important;
+}
+
+nav{
+    background-color: #FFFFFF !important;
+    box-shadow: 0px 2px 8px rgba(134, 140, 144, 0.05);
+}
+
+.navbar-brand{
+  margin-left: 20px!important;
+  color:#1BCBF2 !important;
+  font-weight: bolder !important;
+}
+
+.row{
+   margin: auto;
+padding: 0px 100px;
+
+}
+
+.row .card{
+    margin:0  10px;
+}
+.container-fluid{
+    padding: 0 50px !important;
+}
+
+.navbar-brand img{
+    margin-right: 20px;
+}
+
+.imgs{
+    padding: 20px;
+}
+
+.collapse{
+    padding-left: 60px !important;
+}
+.nav-link{
+
+    padding: 0 30px !important;
+}
+
+
+.nav-link:hover{
+border-bottom: 2px solid #1BCBF2;
+font-size: larger;
+}
+
+.card{
+    width: 320px !important;
+    margin:2%;
+    margin-top: 5% !important;
+    border-radius: 10px !important;
+}
+
+.cardh{
+    text-align: center;
+    word-spacing:10px;
+    font-size: 25px;
+    word-spacing: 140px;
+    line-height: 10px;
+    font-weight: bolder;
+}
+
+
+.cardp{
+    text-align: center;
+   word-spacing: 2px;   
+
+   letter-spacing: 8px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid #DCE0E2;
+}
+
+.cardw{
+    border: 2px solid #DCE0E2;
+    border-radius: 20px;
+    padding: 8px;
+    margin-left:20px;
+}
+.cardl{
+    color: #868C90;
+    font-weight: bolder;
+    margin-top:20px;
+    margin-bottom: 0px;
+}
+.my-custom-scrollbar {
+    position: relative;
+    height: 200px;
+    overflow: auto;
+    }
+    .table-wrapper-scroll-y {
+    display: block;
+  
+    }
+  .third .my-custom-scrollbar{
+    position: relative;
+    height: 290px;
+    overflow: auto;
+  }
+
+    ::-webkit-scrollbar {
+        width: 3px;
+      
+      }
+      
+ 
+
+      ::-webkit-scrollbar-track {
+        background: #f1f1f1;
+
+      }
+      
+    
+      ::-webkit-scrollbar-thumb {
+        background: #888;
+    
+      }
+      
+    
+      ::-webkit-scrollbar-thumb:hover {
+        background: #555;
+      }
+
+      ::-webkit-scrollbar-button {
+        height: 29px;
+      }
+
+      .col3{
+          text-align: right !important;
+          color:#DCE0E2;
+
+        }
+
+      .up{
+          color: #26DE81 !important;
+        font-weight: bolder;
+        }
+        .down{
+            color:#FC5C65 !important;
+          font-weight: bolder;
+        }
+
+        th,td{
+            border-bottom: none !important;
+        }
+
+        .btns{
+            border-radius: 25px;
+            border: 2px solid white;
+            padding: 10px;
+            font-size: 15px;
+            color: white;
+            background: linear-gradient(139.39deg, #373B44 0%, #4286F4 100%), #FFFFFF;
+        }
+
+        .back{
+            color: white;
+            font-size: 100px;
+            background: linear-gradient(139.39deg, #373B44 0%, #4286F4 100%), #FFFFFF;
+        }
+
+        .text1{
+            font-size: 55px !important;
+        }
+
+        .text2{
+            font-size: 35px;
+        }
+  .third{
+      width:870px !important ;
+  }
+  .setting{
+      float: right;
+  }
+  
+        .Thirdh{
+          font-size: 21px;
+          word-spacing:570px;
+          font-weight: bolder;
+        }
+        .Thirdt{
+            display: inline;
+            
+        }
+        .Thirdt td{
+    
+            padding:10px 10px;
+            font-weight: bolder;
+        }
+        .Thirdh img{
+            width: 19px;
+        }
+
+        .Thirdt{
+            border-radius: 90px;
+        }
+        .thirdb{
+            color: white;
+            padding: 5px;
+            font-size: 17px;
+            border: none;
+            border:2px solid #DCE0E2 ;
+            font-weight: bolder;
+            width: 120px;
+            background-color:#26DE8199;
+            border-radius: 90px;
+        }
+        .thirdb1{
+            color:#DCE0E2;
+           font-size: 17px;
+           font-weight: bolder;
+            padding: 5px;
+            width: 120px;
+            border:2px solid #DCE0E2 ;
+            background-color:white;
+            border-radius: 90px;
+        }
+        .third .Thirdt{
+            margin-left: 30px;
+        }
+ 
+        .third button{
+            margin-left:26px;
+        }
+
+        .thirdtab{
+            padding-top: 40px;
+            padding-bottom: none;
+        }
+       
+        .thirdcol3 img{
+            width: 20px;
+        }
+
+        .third .down{
+           color:#DCE0E2 !important;
+        }
+        .cardh2{
+            word-spacing: 2px;
+            font-size: 20px;
+            font-weight: bolder;
+        }
+        .cardh2 span{
+             color: #DCE0E2;
+        }
+        .cardh2 img{
+          margin-left: 120px;
+        }
+        
+        .ROW2 .down{
+            color: #DCE0E2 !important;
+        }
+       .feedcont{
+           color: #DCE0E2;
+     
+          }
+       .feedp{
+           font-size: 20px;
+           font-weight: bolder;
+           color: #2A3135;;
+           margin-bottom: 10px;
+           border-left: 3px solid #DCE0E2;
+       }
+       .feedp  span{
+           font-size: 16px;
+       }
+       .feedtime{
+           color: #F2911B99;
+           float:right;
+       }
+
+        .ROW2 .up{
+            color: #DCE0E2 !important;
+        }
+
+        .ROW2 .col3{
+            color: black;
+        }
+
+        .arrow{
+            margin-top: 10px;
+            float:right;
+            
+        }
+
+ 
+        .feedp1{
+            font-size: 20px;
+            font-weight: bolder;
+            border-left: 2px solid #26DE81;
+        }
+      .feedp1 span{
+          font-size: 16px;
+          
+      }
+
+      .cardh2 img{
+         float:right;
+      }
+
+      .wimg{
+          border: 2px solid #F2911B99;
+          border-radius: 25px;
+          padding: 10px;
+          width: 50px;
+          margin-right: 10px;
+        }
+
+        .wimg1{
+            border: 2px solid white;
+            padding: 10px;
+            float: right;
+            width: 42px;
+            margin-left: 15px;
+            background: rgba(32, 191, 107, 0.1);
+border-radius: 4px;
+        }
+
+        .wimg2{
+            border: 2px solid white;
+            padding: 10px;
+            float: right;
+            width: 42px;
+            margin-left: 15px;
+            background: rgba(242, 145, 27, 0.1);
+        }
+
+        .wimg3{
+            border: 2px solid white;
+            padding: 10px;
+            float: right;
+            width: 42px;
+            margin-left: 15px;
+            background: rgba(0, 129, 194, 0.1);
+        }
+
+        .lcard{
+            width: 400px !important;
+        }
+
+        .wtable td{
+            padding: 7px !important;
+        }
+
+        .wp{
+            color:#868C90;
+            font-size: 20px;
+            font-weight: 500;
+        }
+        
+        .wp1{
+            color: #2A3135;
+            font-size: 20px;
+            font-weight: 500;
+            
+        }
+
+        #wdb{
+            border: 2px solid #DCE0E2;
+            border-radius: 25px;
+            padding: 10px;
+            width: 50px;
+            margin-right: 10px;
+            
+        }
+
+        .thirds{
+            width: 900px !important;
+        }
+   
+        @media only screen and (max-width: 600px) {
+          
+            .cardh{
+             
+               
+                font-size: 20px;
+                word-spacing: 120px;
+               
+            }
+            
+            
+         
+            .row{
+     
+                padding: 10px 70px !important;
+            }
+            
+            .row>*{
+                width: 170% !important;
+                padding: 0 !important;
+            }
+
+
+        }
+
+        
+        @media only screen and (max-width: 360px) {
+          
+            .cardh{
+             
+               
+                font-size: 20px;
+                word-spacing: 120px;
+               
+            }
+            
+            
+         
+            .row{
+     
+                padding: 10px 50px !important;
+            }
+            
+            .row>*{
+                width: 170% !important;
+                padding: 0 !important;
+            }
+
+
+        }
